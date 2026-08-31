@@ -1,0 +1,17 @@
+/cifar-env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so    
+*.dylib
+*.egg
+*.egg-info
+dist
+build
+.eggs
+*.log
+*.tar.gz
+*.zip
+*.h5
+*.pt
